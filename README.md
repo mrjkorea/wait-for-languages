@@ -1,6 +1,6 @@
 # wait-for-languages
 
-Static signup site for **Wait for Languages Tips** — a free weekly practical language tip newsletter by Mr. Jay, an English teacher in Korea.
+Static signup site for **Mr. Jay's Language Learning Tips** — a free weekly practical language-learning tip newsletter by Mr. Jay, an English teacher in Korea.
 
 Hosted on [GitHub Pages](https://mrjkorea.github.io/wait-for-languages/) from the root of the `main` branch (project site under `/wait-for-languages/`).
 
@@ -12,7 +12,7 @@ Hosted on [GitHub Pages](https://mrjkorea.github.io/wait-for-languages/) from th
 | `sample/` | Sample newsletter issue (HTML) |
 | `go/*/` | Short links with UTM tags for social channels |
 | `css/styles.css` | Shared styles (mobile-first) |
-| `assets/favicon.svg` | Logo / favicon mark |
+| `assets/favicon.svg` | Logo / favicon mark (MJ speech bubble) |
 | `sitemap.xml`, `robots.txt` | SEO |
 | `.nojekyll` | Disable Jekyll processing on GitHub Pages |
 
@@ -34,4 +34,4 @@ Open `http://localhost:8080/` (or the project path if you serve from a parent di
 
 ## Brand
 
-Use **Wait for Languages** and **Wait for Languages Tips** only. Do not use retired names (see project brand notes).
+Public newsletter name: **Mr. Jay's Language Learning Tips**. Keep retired newsletter names out of site copy.

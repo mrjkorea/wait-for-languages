@@ -1,6 +1,6 @@
 # Short links (UTM tracking)
 
-These paths redirect to the signup landing page with channel-specific `utm_source` values.
+These paths redirect to the **Mr. Jay's Language Learning Tips** signup landing page with channel-specific `utm_source` values.
 
 **Base site:** https://mrjkorea.github.io/wait-for-languages/
 
