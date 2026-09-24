@@ -1,4 +1,4 @@
-/* Wait for Languages — mobile-first signup page */
+/* Mr. Jay's Language Learning Tips — mobile-first signup page */
 :root {
   --bg: #faf8f5;
   --surface: #ffffff;
@@ -79,8 +79,14 @@ a:hover {
   text-decoration: none;
   color: var(--text);
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.25;
   letter-spacing: -0.02em;
+  max-width: 100%;
+}
+
+.logo-text {
+  max-width: 16rem;
 }
 
 .logo-mark {
