@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wait for Languages Tips — Free Weekly Practical Language Tip</title>
+  <meta name="description" content="Get a free weekly practical language tip for learners, teachers, and parents. One tip, three short reads, one thing to try. Unsubscribe anytime.">
+  <link rel="canonical" href="https://mrjkorea.github.io/wait-for-languages/">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Wait for Languages Tips — Free Weekly Practical Language Tip">
+  <meta property="og:description" content="One practical tip, three short reads, one thing to try. Every week, free. For anyone learning another language.">
+  <meta property="og:url" content="https://mrjkorea.github.io/wait-for-languages/">
+  <meta property="og:site_name" content="Wait for Languages">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Wait for Languages Tips">
+  <meta name="twitter:description" content="Free weekly practical language tips for learners, teachers, and parents.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="logo-link" href="./">
+      <img class="logo-mark" src="assets/favicon.svg" width="36" height="36" alt="">
+      <span>Wait for Languages</span>
+    </a>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-heading">
+      <h1 id="hero-heading">A free weekly practical language tip — for learners, teachers, and parents.</h1>
+      <p class="tagline">Wait for Languages Tips</p>
+      <p class="sub">One practical tip, three short reads, one thing to try. Every week, free. Unsubscribe anytime.</p>
+      <a id="kit-cta" class="cta-primary" href="https://wait-for-languages.kit.com/">Get the free weekly tip</a>
+      <p class="cta-note">Opens our secure signup page on Kit. Your email stays private.</p>
+      <p class="author-line">By Mr. Jay, an English teacher in Korea</p>
+    </section>
+
+    <section aria-labelledby="benefits-heading">
+      <h2 id="benefits-heading">What you get</h2>
+      <ul class="benefits">
+        <li><strong>One practical tip</strong> you can use the same week — courage, habits, listening, speaking, and more.</li>
+        <li><strong>Three short reads</strong> (links only) when you want a deeper look, without a long essay in your inbox.</li>
+        <li><strong>One thing to try</strong> for learners, teachers, or parents — small steps that add up.</li>
+      </ul>
+    </section>
+
+    <section class="sample-teaser" aria-labelledby="sample-heading">
+      <h2 id="sample-heading">Read a sample issue</h2>
+      <p>Issue 1 is about courage: speaking before you feel “ready,” and why honest feedback beats empty praise.</p>
+      <a class="link-button" href="sample/">Read the sample issue</a>
+    </section>
+
+    <section class="faq" aria-labelledby="faq-heading">
+      <h2 id="faq-heading">Quick FAQ</h2>
+      <details>
+        <summary>Is it free?</summary>
+        <p class="answer">Yes. Wait for Languages Tips is free. We may mention books or resources sometimes, but the newsletter itself costs nothing.</p>
+      </details>
+      <details>
+        <summary>How often?</summary>
+        <p class="answer">Once a week — one email with a tip, three optional reads, and something to try.</p>
+      </details>
+      <details>
+        <summary>What language is it for?</summary>
+        <p class="answer">The letter is in English, but the ideas apply to anyone learning <em>another</em> language — any age, any goal.</p>
+      </details>
+      <details>
+        <summary>How do I unsubscribe?</summary>
+        <p class="answer">Every email has an unsubscribe link at the bottom. One click, no questions.</p>
+      </details>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <p>© Wait for Languages · <a href="sample/">Sample issue</a></p>
+  </footer>
+  <script>
+  (function () {
+    var kitBase = 'https://wait-for-languages.kit.com/';
+    var cta = document.getElementById('kit-cta');
+    if (!cta) return;
+    try {
+      var dest = new URL(kitBase);
+      var incoming = new URLSearchParams(window.location.search);
+      incoming.forEach(function (value, key) {
+        if (key.indexOf('utm_') === 0) {
+          dest.searchParams.set(key, value);
+        }
+      });
+      cta.href = dest.toString();
+    } catch (e) {
+      cta.href = kitBase;
+    }
+  })();
+  </script>
+</body>
+</html>
