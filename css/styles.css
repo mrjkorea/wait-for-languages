@@ -321,3 +321,54 @@ section h2 {
     min-width: 16rem;
   }
 }
+
+/* Tip pages (SEO guides) */
+.breadcrumbs {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.tip-article .lede {
+  font-size: 1.1rem;
+}
+
+.tip-article ul {
+  padding-left: 1.25rem;
+  margin: 0 0 1rem;
+}
+
+.inline-cta {
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem;
+  margin: 1.75rem 0;
+  text-align: center;
+}
+
+.inline-cta p {
+  margin: 0 0 1rem;
+}
+
+.inline-cta .cta-primary {
+  color: #fff;
+}
+
+.tip-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tip-list li {
+  margin: 0 0 1.25rem;
+}
+
+.tip-list .muted {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.footer-tips {
+  line-height: 1.8;
+}
