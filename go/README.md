@@ -15,6 +15,12 @@ These paths redirect to the **Mr. Jay's Language Learning Tips** signup landing 
 | X         | https://mrjkorea.github.io/wait-for-languages/go/x/ |
 | Threads   | https://mrjkorea.github.io/wait-for-languages/go/threads/ |
 | Pinterest | https://mrjkorea.github.io/wait-for-languages/go/pin/ |
+| LinkedIn  | https://mrjkorea.github.io/wait-for-languages/go/linkedin/ |
+| Bluesky   | https://mrjkorea.github.io/wait-for-languages/go/bluesky/ |
+| Mastodon  | https://mrjkorea.github.io/wait-for-languages/go/mastodon/ |
+| Medium    | https://mrjkorea.github.io/wait-for-languages/go/medium/ |
+| Facebook  | https://mrjkorea.github.io/wait-for-languages/go/facebook/ |
+| Pinterest (full name) | https://mrjkorea.github.io/wait-for-languages/go/pinterest/ |
 | Other     | https://mrjkorea.github.io/wait-for-languages/go/other/ |
 
 Each redirect adds:
